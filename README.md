@@ -27,7 +27,7 @@ THIS LOADER IS USED TO WORK WITH OTHER PROGRAMS/SERVICES (CSGO) SO YOU TAKE FULL
 Requirements :
 * WINDOWS SYSTEM WITH AN OPERATING SYSTEM ABOVE WINDOWS 7.
 * THE LATEST VERSION OF .NETFRAMEWORK INSTALLED. 
-LINK: https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer
+> LINK: https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer
 * MICROSOFT VISUAL C++ REDISTRIBUTABLE LATEST SUPPORTED DOWNLOADS
 LINK: https://aka.ms/vs/17/release/vc_redist.x86.exe
 LINK: https://aka.ms/vs/17/release/vc_redist.x64.exe
